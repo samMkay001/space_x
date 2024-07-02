@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    color: white;
+}
+.jug{
+    background-image: url(image/first.jpg);
+    
+   background-size: cover;
+   background-position: center;
+
+}
+.two{
+    background-image: url(image/two.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2.5%;
+}
+.three{
+    background-image: url(image/three.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 2.5%;
+}
+.four{
+    background-image: url(image/four.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 2.5%;
+}
+.spoon{
+    background-color: black;
+    
+display: flex;
+text-align: center;
+align-items: center;
+    padding: 2%;
+}
+.tool{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    margin-left: 36%;
+}
